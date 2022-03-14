@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [rohit-more.netlify.app](rohit-more.netlify.app)
-
 - 📝 I regularly write articles on [https://cserohitmore.blogspot.com/](https://cserohitmore.blogspot.com/)
 
 - 💬 Ask me about **Web Development**
