@@ -17,7 +17,7 @@
 <a href="https://twitter.com/rohittmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohittmore" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rohit-more-8264a0230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-more-8264a0230/" height="30" width="40" /></a>
 <a href="https://dev.to/rohitmore07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cserohitmore" height="30" width="40" /></a>
-<a href="https://instagram.com/creator.ro7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creator.ro7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/creatro.r7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creator.ro7" height="30" width="40" /></a>
 <a href="https://dribbble.com/rohitmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rohitmore" height="30" width="40" /></a>
 <a href="https://www.behance.net/rohitmore07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rohitmore07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cserohitmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cserohitmore" height="30" width="40" /></a>
@@ -51,7 +51,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/creator.ro7/" target="_blank">
+<a href="https://www.instagram.com/creatro.r7/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
