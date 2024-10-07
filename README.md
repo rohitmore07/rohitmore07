@@ -1,16 +1,31 @@
-![header_](https://user-images.githubusercontent.com/72745563/196879565-4d03f914-da29-4629-98ea-219d63a43940.png)
+<a href="https://schar.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./bg-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./bg-light.svg" />
+    <img alt="Rohit More" src="./intro-dark.svg" width="100%" />
+  </picture>
+</a>
 
-<h1 align="center">Hi There 👋, I'm Rohit</h1>
-<h3 align="center">Design & Development</h3>
+<div align="center">
+  <a href="https://creatro.vercel.app"><img alt="Portfolio Website" src="https://img.shields.io/badge/creatro-black?style=flat&logo=amp&logoColor=white&color=BBD0F4&label=Website&labelColor=262626"></a>
+  <a href="https://twitter.com/rohittmore"><img alt="Twitter" src="https://img.shields.io/badge/@rohittmore-black?style=flat&logo=x&logoColor=white&color=BBD0F4&label=&labelColor=262626"></a>
+  <a href="https://linkedin.com/in/rohitmore07"><img alt="LinkedIn" src="https://img.shields.io/badge/rohitmore07-black?style=flat&logo=linkedin&logoColor=white&color=BBD0F4&label=LinkedIn&labelColor=262626"></a>
+</div>
+
+### Hey, I'm Rohit.
+
+I'm a self-taught front-end web developer based in Maharashtra, India, with a passion for building clean and high performing web apps. Learning about how stuff works behind the scenes, and geeking out on web performance always get me excited.
+
+When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmore07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore07" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Next.js**
 
 - 📝 I regularly write articles on https://dev.to/rohitmore07
 
-- 💬 Ask me about **Web Development or any tech-related stuff.**
+- 💬 Ask me about **Development or any tech-related stuff.**
 
 - 📫 How to reach me **cserohitmore@gmail.com**
 
@@ -42,18 +57,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmore07&show_icons=true&locale=en&layout=compact" alt="rohitmore07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmore07&show_icons=true&locale=en" alt="rohitmore07" /></p>
-
-## 🤝 Connect with me  
-<div align="center">
- <a href="https://www.linkedin.com/in/rohit-more-8264a0230/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/rohitmore07" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/creatro.r7/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
