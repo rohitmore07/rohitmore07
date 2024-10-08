@@ -1,10 +1,11 @@
 <a href="https://schar.dev">
-  <picture>
+  <img src="bg-dark.svg">
+ <!--<picture>
     <source media="(prefers-color-scheme: dark)" srcset="./bg-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./bg-light.svg" />
     <img alt="Rohit More" src="./intro-dark.svg" width="100%" />
   </picture>
-</a>
+</a>-->
 
 <div align="center">
   <a href="https://creatro.vercel.app"><img alt="Portfolio Website" src="https://img.shields.io/badge/creatro-black?style=flat&logo=amp&logoColor=white&color=BBD0F4&label=Website&labelColor=262626"></a>
