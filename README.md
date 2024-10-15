@@ -13,7 +13,7 @@
 </div>
 
 ### Hey, I'm Rohit.
-
+Welcome to my colorful corner of the GitHub universe! 🌌✨
 I'm a self-taught front-end web developer based in Maharashtra, India, with a passion for building clean and high performing web apps. Learning about how stuff works behind the scenes, and geeking out on web performance always get me excited.
 
 When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
