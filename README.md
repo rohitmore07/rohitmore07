@@ -45,5 +45,7 @@ When I'm not busy churning out code, you can probably find me watching anime or 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java,python,php,mysql,nodejs,nextjs,tailwindcss,threejs,materialui,git,scss,vscode,github,replit,netlify,vercel,figma,photoshop,illustrator)](https://skillicons.dev)    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmore07&show_icons=true&locale=en&layout=compact" alt="rohitmore07" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmore07&show_icons=true&locale=en" alt="rohitmore07" /></p>
+
+[![Rohit's github activity
+graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitmore07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
