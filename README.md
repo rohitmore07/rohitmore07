@@ -21,7 +21,7 @@ When I'm not busy churning out code, you can probably find me watching anime or 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmore07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore07" /> </p>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Three.js**
 
 - 📝 I regularly write articles on https://dev.to/rohitmore07
 
