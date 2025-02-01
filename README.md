@@ -14,9 +14,11 @@
 
 ### Hey, I'm Rohit.
 Welcome to my colorful corner of the GitHub universe! 🌌✨<br><br>
-I'm a self-taught front-end web developer based in Maharashtra, India, with a passion for building clean and high performing web apps. Learning about how stuff works behind the scenes, and geeking out on web performance always get me excited.
-
-When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
+- Highly creative Full Stack Developer with a strong foundation in front-end technologies.
+- Adept at building user-centric interfaces and full-stack applications. Learning about how stuff works behind the scenes and geeking out on web performance always get me excited.
+- Passionate about fostering vibrant online communities, bringing ideas to life with code and design and tackling challenges with an innovative mindset.
+- Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.
+- When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmore07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore07" /> </p>
 
