@@ -13,7 +13,7 @@
 </div>
 
 ### Hey, I'm Rohit.
-Welcome to my colorful corner of the GitHub universe! 🌌✨<br><br>
+Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
 - Highly creative Full Stack Developer with a strong foundation in front-end technologies.
 - Adept at building user-centric interfaces and full-stack applications. Learning about how stuff works behind the scenes and geeking out on web performance always get me excited.
 - Passionate about fostering vibrant online communities, bringing ideas to life with code and design and tackling challenges with an innovative mindset.
