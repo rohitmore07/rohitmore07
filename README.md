@@ -12,13 +12,17 @@
   <a href="https://linkedin.com/in/rohitmore07"><img alt="LinkedIn" src="https://img.shields.io/badge/rohitmore07-black?style=flat&logo=linkedin&logoColor=white&color=BBD0F4&label=LinkedIn&labelColor=262626"></a>
 </div>
 
-### Hey, I'm Rohit.
+### 👋 Hey there, I'm Rohit.
 Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
-- Highly creative Full Stack Developer with a strong foundation in front-end technologies.
-- Adept at building user-centric interfaces and full-stack applications. Learning about how stuff works behind the scenes and geeking out on web performance always get me excited.
-- Passionate about fostering vibrant online communities, bringing ideas to life with code and design and tackling challenges with an innovative mindset.
-- Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.
-- When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
+🚀 Highly creative Full Stack Developer with a strong foundation in front-end technologies.
+  
+💡 My purpose is clear : To create exceptional applications and digital experiences. Whether it's through React Native app development or crafting MERN stack web applications, I'm dedicated to delivering excellence.
+  
+📌 Passionate about fostering vibrant online communities, bringing ideas to life with code and design and tackling challenges with an innovative mindset.
+  
+🌐 Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.
+  
+😁 When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmore07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore07" /> </p>
 
