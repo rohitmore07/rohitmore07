@@ -15,7 +15,7 @@
 ### 👋 Hey there, I'm Rohit.
 Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
 
-🚀 Highly creative Full Stack Developer with a strong foundation in front-end technologies.
+🚀 Highly creative Developer with a strong foundation in front-end technologies.
   
 💡 My purpose is clear : To create exceptional applications and digital experiences. Whether it's through React Native app development or crafting MERN stack web applications, I'm dedicated to delivering excellence.
   
