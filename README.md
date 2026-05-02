@@ -69,7 +69,3 @@ Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmore07&show_icons=true&locale=en&layout=compact" alt="rohitmore07" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmore07&show_icons=true&locale=en" alt="rohitmore07" />
-</p>
