@@ -17,7 +17,7 @@ Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
 
 🚀 Highly creative Developer with a strong foundation in front-end technologies.
   
-💡 My purpose is clear : To create exceptional applications and digital experiences. Whether it's through React Native app development or crafting MERN stack web applications, I'm dedicated to delivering excellence.
+💡 My purpose is clear : To build products that people genuinely enjoy using. By combining creativity, problem-solving and attention to detail, I strive to create experiences that are engaging, reliable and memorable.
   
 📌 Passionate about fostering vibrant online communities, bringing ideas to life with code and design and tackling challenges with an innovative mindset.
   
