@@ -64,8 +64,4 @@ Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p> 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmore07&show_icons=true&locale=en&layout=compact" alt="rohitmore07" />
 </p>
