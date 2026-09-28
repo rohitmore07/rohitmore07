@@ -41,7 +41,7 @@ Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
 <td><a href="https://twitter.com/rohittmore"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30"/></a></td>
 <td><a href="https://www.linkedin.com/in/rohit-more-8264a0230/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="30" width="30"/></a></td>
 <td><a href="https://dev.to/rohitmore07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="30"/></a></td>
-<td><a href="https://www.instagram.com/cre8ro/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"/></a></td>
+<td><a href="https://www.instagram.com/roheet.more/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"/></a></td>
 <td><a href="https://www.behance.net/rohitmore07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="30"/></a></td>
 <td><a href="https://www.hackerrank.com/cserohitmore"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="30"/></a></td>
 </tr>
