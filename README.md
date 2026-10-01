@@ -29,9 +29,9 @@ Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
   <img src="https://komarev.com/ghpvc/?username=rohitmore07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore07" /> 
 </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Agentic AI and Autonomous Systems**
 - 📝 I regularly write articles on https://dev.to/rohitmore07
-- 💬 Ask me about **development, design or any tech-related stuff.**
+- 💬 Ask me about **full-stack development, scalable Architectures, docker & containerized deployment or any tech-related stuff.**
 - 📫 How to reach me **cserohitmore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
