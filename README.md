@@ -12,44 +12,34 @@
   <a href="https://linkedin.com/in/rohitmore07"><img alt="LinkedIn" src="https://img.shields.io/badge/rohitmore07-black?style=flat&logo=linkedin&logoColor=white&color=BBD0F4&label=LinkedIn&labelColor=262626"></a>
 </div>
 
-### 👋 Hey there, I'm Rohit.
-Welcome to my colorful corner of the GitHub universe! 🌌✨<br>
+## 👋 Hey there, I'm Rohit.
+Welcome to my colorful corner of the GitHub universe! 🌌<br>
 
-🚀 Highly creative Developer with a strong foundation in front-end technologies.
-  
-💡 My purpose is clear : To build products that people genuinely enjoy using. By combining creativity, problem-solving and attention to detail, I strive to create experiences that are engaging, reliable and memorable.
-  
-📌 Passionate about fostering vibrant online communities, bringing ideas to life with code and design and tackling challenges with an innovative mindset.
-  
-🌐 Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.
-  
-😁 When I'm not busy churning out code, you can probably find me watching anime or chasing the thrill of a perfect stroke on the cricket field.
+I build full-stack applications and explore how AI can make software more intelligent, useful and intuitive.<br>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rohitmore07&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore07" /> 
+
+- 🔭 **Building :** Full-stack applications and AI-powered products
+- 🌱 **Exploring :** Agentic AI, LLMs, RAG and autonomous systems
+- ✍️ **Writing :** [hashnode.com/@rohitmore07](https://hashnode.com/@rohitmore07)
+- 📫 **Reach me at :** [cserohitmore@gmail.com](mailto:cserohitmore@gmail.com)
+
+---
+
+## Connect With Me :
+
+<p align="left">
+ <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/%20-000000?style=flat&logo=x&logoColor=white&logoWidth=28" height="50" width="60" alt="X" /></a>
+ <a href="https://www.hackerrank.com/rohitmore07"><img src="https://img.shields.io/badge/%20-2EC866?style=flat&logo=hackerrank&logoColor=white&logoWidth=28" height="50" width="60" alt="HackerRank" /></a>
+<a href="https://leetcode.com/u/rohitmore07/"><img src="https://img.shields.io/badge/%20-FFA116?style=flat&logo=leetcode&logoColor=black&logoWidth=28" height="50" width="60" alt="LeetCode" /></a>
+<a href="https://hashnode.com/@rohitmore07E"><img src="https://img.shields.io/badge/%20-2962FF?style=flat&logo=hashnode&logoColor=white&logoWidth=28" height="50" width="60" alt="Hashnode" /></a>
+  <a href="https://www.instagram.com/roheet.more/"><img src="https://img.shields.io/badge/%20-E4405F?style=flat&logo=instagram&logoColor=white&logoWidth=28" height="50" width="60" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@rohitmore07"><img src="https://img.shields.io/badge/%20-FF0000?style=flat&logo=youtube&logoColor=white&logoWidth=28" height="50" width="60" alt="YouTube" /></a>
+  <a href="https://discord.com/users/941613368995901451"><img src="https://img.shields.io/badge/%20-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=28" height="50" width="60" alt="Discord" /></a>
 </p>
-
-- 🌱 I’m currently learning **Agentic AI and Autonomous Systems**
-- 📝 I regularly write articles on https://dev.to/rohitmore07
-- 💬 Ask me about **full-stack development, scalable Architectures, docker & containerized deployment or any tech-related stuff.**
-- 📫 How to reach me **cserohitmore@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<table>
-<tr>
-<td><a href="https://twitter.com/rohittmore"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30"/></a></td>
-<td><a href="https://www.linkedin.com/in/rohit-more-8264a0230/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="30" width="30"/></a></td>
-<td><a href="https://dev.to/rohitmore07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="30"/></a></td>
-<td><a href="https://www.instagram.com/roheet.more/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"/></a></td>
-<td><a href="https://www.behance.net/rohitmore07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="30"/></a></td>
-<td><a href="https://www.hackerrank.com/cserohitmore"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="30"/></a></td>
-</tr>
-</table>
 
 ## Tech Stack :
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,threejs,redux,nodejs,express,mongodb,mui,sass" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,redux,nodejs,spring,express,mongodb,prisma,postgres,tailwindcss,mui,sass" alt="My Skills"/>
 </p>
 
 ## Languages and Tools :
