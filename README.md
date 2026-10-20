@@ -7,7 +7,7 @@
 </a>
 
 <div align="center">
-  <a href="https://creatro.vercel.app"><img alt="Portfolio Website" src="https://img.shields.io/badge/creatro-black?style=flat&logo=amp&logoColor=white&color=BBD0F4&label=Website&labelColor=262626"></a>
+  <a href="https://creatro.vercel.app"><img alt="Portfolio Website" src="https://img.shields.io/badge/creatro-black?style=flat&logo=amp&logoColor=white&color=BBD0F4&label=Portfolio&labelColor=262626"></a>
   <a href="https://twitter.com/rohittmore"><img alt="Twitter" src="https://img.shields.io/badge/@rohittmore-black?style=flat&logo=x&logoColor=white&color=BBD0F4&label=&labelColor=262626"></a>
   <a href="https://linkedin.com/in/rohitmore07"><img alt="LinkedIn" src="https://img.shields.io/badge/rohitmore07-black?style=flat&logo=linkedin&logoColor=white&color=BBD0F4&label=LinkedIn&labelColor=262626"></a>
 </div>
