@@ -28,10 +28,10 @@ I build full-stack applications and explore how AI can make software more intell
 ## Connect With Me :
 
 <p align="left">
- <a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/%20-000000?style=flat&logo=x&logoColor=white&logoWidth=28" height="50" width="60" alt="X" /></a>
+ <a href="https://x.com/rohittmore"><img src="https://img.shields.io/badge/%20-000000?style=flat&logo=x&logoColor=white&logoWidth=28" height="50" width="60" alt="X" /></a>
  <a href="https://www.hackerrank.com/rohitmore07"><img src="https://img.shields.io/badge/%20-2EC866?style=flat&logo=hackerrank&logoColor=white&logoWidth=28" height="50" width="60" alt="HackerRank" /></a>
 <a href="https://leetcode.com/u/rohitmore07/"><img src="https://img.shields.io/badge/%20-FFA116?style=flat&logo=leetcode&logoColor=black&logoWidth=28" height="50" width="60" alt="LeetCode" /></a>
-<a href="https://hashnode.com/@rohitmore07E"><img src="https://img.shields.io/badge/%20-2962FF?style=flat&logo=hashnode&logoColor=white&logoWidth=28" height="50" width="60" alt="Hashnode" /></a>
+<a href="https://hashnode.com/@rohitmore07"><img src="https://img.shields.io/badge/%20-2962FF?style=flat&logo=hashnode&logoColor=white&logoWidth=28" height="50" width="60" alt="Hashnode" /></a>
   <a href="https://www.instagram.com/roheet.more/"><img src="https://img.shields.io/badge/%20-E4405F?style=flat&logo=instagram&logoColor=white&logoWidth=28" height="50" width="60" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@rohitmore07"><img src="https://img.shields.io/badge/%20-FF0000?style=flat&logo=youtube&logoColor=white&logoWidth=28" height="50" width="60" alt="YouTube" /></a>
   <a href="https://discord.com/users/941613368995901451"><img src="https://img.shields.io/badge/%20-5865F2?style=flat&logo=discord&logoColor=white&logoWidth=28" height="50" width="60" alt="Discord" /></a>
